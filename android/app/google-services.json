@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383857635618",
+    "project_id": "social-app-e5851",
+    "storage_bucket": "social-app-e5851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383857635618:android:bfbd72b6079ea590c1357b",
+        "android_client_info": {
+          "package_name": "com.example.socialkom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383857635618-sfqc4dn34eqqnl0vk7hdh923mgq3b36q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPJOK9w8F1LT9NcUAbu0Rs9BiWVZu4vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383857635618-sfqc4dn34eqqnl0vk7hdh923mgq3b36q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
